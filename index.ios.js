@@ -23,7 +23,7 @@ var HelloWorld = React.createClass({
     var movie = MOCKED_MOVIES_DATA[0];
     return (
       <View style={styles.container}>
-        <Text>Hello World</Text>
+        <Text>Hello World !!</Text>
         <Image
           style={styles.thumbnail}
           source={{uri:'http://facebook.github.io/react/img/logo_og.png'}}
